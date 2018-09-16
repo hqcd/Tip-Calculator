@@ -1,3 +1,7 @@
+//Name: Quinten Whitaker
+//Assignment: Homework 1 - Tip Calculator
+//Course: CS4322
+
 package com.example.duong.homework1;
 
 import android.support.v7.app.AppCompatActivity;
